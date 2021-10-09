@@ -2,4 +2,4 @@ Thats my first assignment of git hub
 Now i make a change in this through github
 changes by:Puneet Agarwal
 
-now i make changes in this file through notepad
+now i make changes in this file by through notepad
